@@ -1,6 +1,7 @@
 *.opendb
 bin/
 obj/
+.vs/
 
 # Prerequisites
 *.d
